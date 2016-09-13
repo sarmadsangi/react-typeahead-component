@@ -1,6 +1,7 @@
 'use strict';
 
 var React = require('react'),
+    ReactDOM = require('react-dom'),
     Input = require('./input.jsx'),
     AriaStatus = require('./aria_status.jsx'),
     getTextDirection = require('../utils/get_text_direction'),
