@@ -34,7 +34,7 @@
     "jsx": "jsx ./src ./dist/npm -x jsx -x js"
   },
   "peerDependencies": {
-    "react": ">=15.0.0",
+    "react": ">=15.0.0"
   },
   "devDependencies": {
     "brfs": "^1.4.0",
